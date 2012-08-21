@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: github | Mc Cheung Octopress Blog]]></title>
+  <link href="http://alaboszhang.github.com/some_blog/blog/categories/github/atom.xml" rel="self"/>
+  <link href="http://alaboszhang.github.com/some_blog/"/>
+  <updated>2012-08-22T01:00:33+08:00</updated>
+  <id>http://alaboszhang.github.com/some_blog/</id>
+  <author>
+    <name><![CDATA[Mc Cheung]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[About octopress]]></title>
+    <link href="http://alaboszhang.github.com/some_blog/blog/2012/08/22/about-octopress/"/>
+    <updated>2012-08-22T00:36:00+08:00</updated>
+    <id>http://alaboszhang.github.com/some_blog/blog/2012/08/22/about-octopress</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>

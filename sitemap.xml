@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://alaboszhang.github.com/some_blog/blog/2012/08/22/about-octopress/</loc>
+        <lastmod>2012-08-22T00:38:00+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://alaboszhang.github.com/some_blog/blog/archives/</loc>
+        <lastmod>2012-08-22T00:38:00+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://alaboszhang.github.com/some_blog/</loc>
+        <lastmod>2012-08-22T00:38:00+08:00</lastmod>
+    </url>
+</urlset>
